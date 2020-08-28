@@ -1,5 +1,9 @@
 export default `
 
+/*自定义样式，实时生效*/
+
+
+
 
 #nice {
 font-family:-apple-system,BlinkMacSystemFont,Helvetica Neue,PingFang SC,Microsoft YaHei,Source Han Sans SC,Noto Sans CJK SC,WenQuanYi Micro Hei,sans-serif;
@@ -136,14 +140,14 @@ font-weight: 400;
 * 背景色 background: gray;
 */
 #nice blockquote {
-  border-left-color:rgba(86, 86, 214, 0.4);
-  background: rgba(86, 86, 214, 0.03);
+  border-left-color:rgba(60, 112, 198, 0.4);
+  background: rgba(60, 112, 198, 0.1);
   padding: 8px 8px 8px 12px;
 }
 
 /* 引用文字 */
 #nice blockquote p {
-font-size: 14px;
+font-size: 16px;
 color:#666666;
 letter-spacing: 2px;
 line-height: 28px;
@@ -159,10 +163,8 @@ text-align: left;
 /* 加粗 */
 #nice strong {
   font-weight: bold;
-  font-size: 14px;
   letter-spacing: 2px;
   text-align: center;
-  line-height: 26px;
 }
 
 /* 斜体 */
@@ -206,7 +208,7 @@ height:1px;
 
 /* 图片描述文字 */
 #nice figcaption {
-  font-size: 12px;
+  font-size: 14px;
   margin-top:-16px;
   color: #888
   font-weight: 40;
@@ -283,6 +285,8 @@ letter-spacing: 2px;
  */
 #nice .inline-equation svg { 
 }
+
+
 
 
 `;
