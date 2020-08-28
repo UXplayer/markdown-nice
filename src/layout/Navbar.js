@@ -34,6 +34,7 @@ class Navbar extends Component {
           <File />
           <Pattern />
           <Function />
+          <Theme token={token} />
           <Setting />
         </div>
         <div className="nice-right-nav" />
