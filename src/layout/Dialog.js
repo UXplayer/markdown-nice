@@ -14,7 +14,6 @@ class Dialog extends Component {
         <ImageDialog />
         <LinkDialog />
         <AboutDialog />
-        <VersionDialog />
         <FormDialog />
         <HistoryDialog />
         <SitDownDialog />

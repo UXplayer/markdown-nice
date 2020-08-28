@@ -21,9 +21,6 @@ class Sidebar extends Component {
     return (
       <div className={niceSidebarClass}>
         <Wechat />
-        <Zhihu />
-        {/* <Juejin /> */}
-        <PreviewType />
       </div>
     );
   }
