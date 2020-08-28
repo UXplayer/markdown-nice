@@ -15,7 +15,7 @@ ReactDOM.render(
       isGiteeOpen: true,
       isGitHubOpen: true,
     }}
-    defaultTitle="Markdown Nice"
+    defaultTitle="洋溢生活"
   />,
   document.getElementById("root"),
 );
